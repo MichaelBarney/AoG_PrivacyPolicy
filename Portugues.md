@@ -1,6 +1,6 @@
 **Política de Privacidade**
 
-{Seu Nome} criou o aplicativo {Nome do Aplicativo} como um aplicativo gratuito. Este SERVIÇO é fornecido por {Seu Nome}, sem nenhum custo e destina-se ao uso como está.
+{Seu Nome} criou o aplicativo {Nome da Ação} como um aplicativo gratuito. Este SERVIÇO é fornecido por {Seu Nome}, sem nenhum custo e destina-se ao uso como está.
 
 Esta página é usada para informar os visitantes sobre minhas políticas com a coleta, uso e divulgação de Informações pessoais, se alguém decidir usar meu Serviço.
 
@@ -56,8 +56,8 @@ Esses serviços não se destinam a menores de 13 anos. Não coleciono intenciona
 
 Posso atualizar nossa Política de Privacidade periodicamente. Portanto, é recomendável revisar esta página periodicamente para verificar se há alterações. Eu o notificarei de quaisquer alterações publicando a nova Política de Privacidade nesta página.
 
-Esta política entra em vigor em {data de hoje}
+Esta política entra em vigor em {Data de Hoje}
 
 **Contate-Nos**
 
-Se você tiver alguma dúvida ou sugestão sobre minha Política de Privacidade, não hesite em me contactar em {email de contato}.
+Se você tiver alguma dúvida ou sugestão sobre minha Política de Privacidade, não hesite em me contactar em {Email de Contato}.
