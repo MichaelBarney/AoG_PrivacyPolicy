@@ -1,6 +1,6 @@
 **Privacy policy**
 
-{Your Name} created the application {Application Name} as a free application. This SERVICE is provided by {Your Name}, at no cost and is intended for use as is.
+{Your Name} created the application {Action Name} as a free application. This SERVICE is provided by {Your Name}, at no cost and is intended for use as is.
 
 This page is used to inform visitors about my policies with the collection, use and disclosure of Personal Information, if someone decides to use my Service.
 
@@ -56,8 +56,8 @@ These services are not intended for children under 13. I do not intentionally co
 
 I may update our Privacy Policy periodically. Therefore, it is recommended to review this page periodically to check for changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy takes effect on {today's date}
+This policy takes effect on {Today's Date}
 
 ** Contact Us **
 
-If you have any questions or suggestions regarding my Privacy Policy, please do not hesitate to contact me at {contact email}.
+If you have any questions or suggestions regarding my Privacy Policy, please do not hesitate to contact me at {Contact Email}.
