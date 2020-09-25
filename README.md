@@ -4,7 +4,7 @@
 
 🇧🇷 Um Template de Política de Privacidade para Ações no Google Assistente
 
-🇷u Шаблон политики конфиденциальности для действий в Google Assistant
+🇷🇺 Шаблон политики конфиденциальности для действий в Google Assistant
 
 ## 🇺🇸 How to Use
 1.  Click on the button "**Use This Template**"  on this repository.
@@ -30,7 +30,7 @@
 5. Abra a URL oferecida e adicione "**/Portugues**" no final
 6. A URL da sua Política de Privacidade deve parecer com algo como:
 	- [https://michaelbarney.github.io/AoG_PrivacyPolicy/Portugues](https://michaelbarney.github.io/AoG_PrivacyPolicy/Portugues)
-## 🇷u Правила использования
+## 🇷🇺 Правила использования
 1.  Нажмите кнопку "**Use This Template**" в данном репозитории.
 2. Выберите файл "Russian.md" и заполните в нём следующие поля:
 	- {Ваше имя} (**дважды**)
